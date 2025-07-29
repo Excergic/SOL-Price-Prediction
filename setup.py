@@ -22,7 +22,7 @@ def get_requirements() -> List[str]:
     return requirement_lst
 
 setup(
-    name='NetworkSecurity',
+    name='sol-price-prediction',
     version='0.0.1',
     author='Dhaivat NJ',
     author_email='dhaivat.jambudia@gmail.com',
