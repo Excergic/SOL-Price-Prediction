@@ -1,7 +1,10 @@
 python-dotenv
 pandas
+pandas_ta
 numpy
 pymongo
 certifi
+requests
+
 
 ##-e .
